@@ -1,0 +1,7 @@
+day,A_train_day_ids,B_train_day_ids,B_latest_label_tick,B_samples_unchanged_by_future,B_refit_predictions_unchanged_by_future
+5,"1,2,3,4","1,2,3,4,5",394791,True,True
+6,"1,2,3,4,5","1,2,3,4,5,6",394757,True,True
+7,"1,2,3,4,5,6","1,2,3,4,5,6,7",394774,True,True
+8,"1,2,3,4,5,6,7","1,2,3,4,5,6,7,8",394760,True,True
+9,"1,2,3,4,5,6,7,8","1,2,3,4,5,6,7,8,9",394767,True,True
+10,"1,2,3,4,5,6,7,8,9","1,2,3,4,5,6,7,8,9,10",394779,True,True

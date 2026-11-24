@@ -1,0 +1,8 @@
+{
+  "chosen": "median_trend025",
+  "duration_sec": 57.71,
+  "prediction_min": 4415.0,
+  "prediction_max": 4415.0,
+  "target_rows": 1799,
+  "note": "Revised selection after examining first-run results; days11-13 are not independent."
+}
