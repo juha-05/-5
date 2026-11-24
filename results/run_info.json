@@ -1,0 +1,9 @@
+{
+  "chosen": "last_price",
+  "elapsed_sec": 4.85,
+  "target_rows": 1799,
+  "target_unique_times": 1361,
+  "first_time": "11:00:00.0",
+  "last_time": "11:02:59.9",
+  "last_observed_price": 4415.0
+}
